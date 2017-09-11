@@ -9,26 +9,26 @@ CDN's "Pay by Bandwidth" method uses a tiered pricing model, with the tiered pri
 		<tr>
 			<th scope="col" style="width: 145px;">Billing Model</th>
 			<th scope="col" style="width: 154px;">Bandwidth Tiers</th>
-			<th scope="col" style="width: 180px;">Unit Price (RMB/Mbps/Day)</th>
+			<th scope="col" style="width: 180px;">Unit Price (USD/Mbps/Month)</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td colspan="1" rowspan="4" style="text-align: center; width: 145px;">Bandwidth Peak</td>
 			<td style="text-align: center; width: 154px;">0 - 500Mbps</td>
-			<td style="text-align: center; width: 180px;">1.1</td>
+			<td style="text-align: center; width: 180px;">4.80</td>
 		</tr>
 		<tr>
 			<td style="text-align: center; width: 154px;">500Mbps - 5Gbps</td>
-			<td style="text-align: center; width: 180px;">1</td>
+			<td style="text-align: center; width: 180px;">4.20</td>
 		</tr>
 		<tr>
 			<td style="text-align: center; width: 154px;">5Gbps - 50Gbps</td>
-			<td style="text-align: center; width: 180px;">0.9</td>
+			<td style="text-align: center; width: 180px;">3.90</td>
 		</tr>
 		<tr>
 			<td style="text-align: center; width: 154px;">>= 50Gbps</td>
-			<td style="text-align: center; width: 180px;">< 0.74, subject to the contract price</td>
+			<td style="text-align: center; width: 180px;"><3.30, subject to the contract price</td>
 		</tr>
 	</tbody>
 </table>
